@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ibrahim 👋
 
-<!--
-**IbraCoded/IbraCoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend engineer working mainly in **Python and PostgreSQL**. I like the parts of
+a system that have to be correct: money movement, concurrency, data integrity.
 
-Here are some ideas to get you started:
+- 🎓 MSc Advanced Computer Science with Software Engineering, University of Strathclyde (Jan 2027)
+- 💼 4+ years' commercial experience: Huawei Technologies, MaxGood.work, Platr.ng, Freelance
+- 🔎 Open to backend / software engineering roles in the UK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured work
+
+**[Fund Ledger](https://github.com/IbraCoded/fund-ledger)**: Double-entry ledger for private equity funds
+(Django REST Framework, PostgreSQL). Invariants are enforced in the database itself, and money movement
+stays safe under concurrency and retries. Load-tested to 6,751 requests with 0 failures.
+[Live demo](https://ledger.ibracoded.dev)
+
+**[Multi-Agent RAG for Molecular QA](https://github.com/IbraCoded/MA_RAG_Molecular_DIscovery)**: MSc
+dissertation. A critic-driven multi-agent RAG system in LangGraph, evaluated with a six-condition ablation
+against a matched single-agent baseline.
+
+## Tech I use
+
+**Languages:** Python, SQL, TypeScript
+**Backend:** Django, DRF, FastAPI, Flask, Express
+**Data:** PostgreSQL, Redis, MongoDB
+**Tooling:** Docker, GitHub Actions, pytest, Hypothesis, Locust
+
+## Find me
+
+[Portfolio](https://ibracoded.dev) · [LinkedIn](https://linkedin.com/in/ibrahim-adeshina)
